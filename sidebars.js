@@ -26,13 +26,23 @@ const sidebars = {
       items: [
         {
           type: 'doc',
+          id: 'module-1/README',
+          label: 'Module Overview',
+        },
+        {
+          type: 'doc',
           id: 'module-1/intro',
           label: 'Chapter 1: Introduction to ROS 2',
         },
         {
           type: 'doc',
-          id: 'module-1/README',
-          label: 'Module Overview',
+          id: 'module-1/communication',
+          label: 'Chapter 2: ROS 2 Communication',
+        },
+        {
+          type: 'doc',
+          id: 'module-1/python-agents',
+          label: 'Chapter 3: Python AI Agents & URDF',
         },
       ],
       collapsible: false,
