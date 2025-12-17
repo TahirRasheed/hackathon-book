@@ -5,7 +5,7 @@
     "ur"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "ur",
   "localeConfigs": {
     "en": {
       "label": "English",
@@ -14,8 +14,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://ros2-textbook.vercel.app",
-      "baseUrl": "/"
+      "url": "https://tahirrasheed.github.io",
+      "baseUrl": "/hackathon-book/"
     },
     "ur": {
       "label": "اردو",
@@ -24,8 +24,8 @@
       "calendar": "gregory",
       "path": "ur",
       "translate": true,
-      "url": "https://ros2-textbook.vercel.app",
-      "baseUrl": "/ur/"
+      "url": "https://tahirrasheed.github.io",
+      "baseUrl": "/hackathon-book/ur/"
     }
   }
 }

@@ -53,7 +53,6 @@ Constraints:
 - Use Claude Code for generation and refinement
 - Deployable to GitHub Pages without manual fixes
 - No content outside defined specs
-- one click Urdu translation for every chapter.
 
 Quality Gates:
 - Spec compliance

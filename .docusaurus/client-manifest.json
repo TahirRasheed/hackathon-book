@@ -20,9 +20,6 @@
       869,
       354
     ],
-    "04f2558c": [
-      150
-    ],
     "44d7f14c": [
       512
     ],
@@ -32,8 +29,14 @@
     "6c7dc579": [
       191
     ],
+    "7b51d1da": [
+      34
+    ],
     "7ddff0c6": [
       737
+    ],
+    "a76d8bc2": [
+      268
     ],
     "a7bd4aaa": [
       98
@@ -51,6 +54,9 @@
     "bac8f337": [
       974
     ],
+    "ff2537fb": [
+      182
+    ],
     "styles": [
       48,
       354,
@@ -60,12 +66,21 @@
     ]
   },
   "assets": {
+    "34": {
+      "js": [
+        {
+          "file": "assets/js/7b51d1da.70f43b1f.js",
+          "hash": "752605eeda6c4af8",
+          "publicPath": "/hackathon-book/ur/assets/js/7b51d1da.70f43b1f.js"
+        }
+      ]
+    },
     "48": {
       "js": [
         {
           "file": "assets/js/a94703ab.41b1d0b7.js",
           "hash": "311c73b9d6a88d32",
-          "publicPath": "/ur/assets/js/a94703ab.41b1d0b7.js"
+          "publicPath": "/hackathon-book/ur/assets/js/a94703ab.41b1d0b7.js"
         }
       ]
     },
@@ -74,25 +89,25 @@
         {
           "file": "assets/js/a7bd4aaa.900fbf2a.js",
           "hash": "f08274962d4d0963",
-          "publicPath": "/ur/assets/js/a7bd4aaa.900fbf2a.js"
+          "publicPath": "/hackathon-book/ur/assets/js/a7bd4aaa.900fbf2a.js"
         }
       ]
     },
-    "150": {
+    "182": {
       "js": [
         {
-          "file": "assets/js/04f2558c.f1c108ba.js",
-          "hash": "3eae14b5dffbf885",
-          "publicPath": "/ur/assets/js/04f2558c.f1c108ba.js"
+          "file": "assets/js/ff2537fb.e669163c.js",
+          "hash": "22dd1d5be030102c",
+          "publicPath": "/hackathon-book/ur/assets/js/ff2537fb.e669163c.js"
         }
       ]
     },
     "191": {
       "js": [
         {
-          "file": "assets/js/6c7dc579.73dadd46.js",
-          "hash": "232b05c55f3e5387",
-          "publicPath": "/ur/assets/js/6c7dc579.73dadd46.js"
+          "file": "assets/js/6c7dc579.3fe4e1e5.js",
+          "hash": "53f1c73da483b9c5",
+          "publicPath": "/hackathon-book/ur/assets/js/6c7dc579.3fe4e1e5.js"
         }
       ]
     },
@@ -101,16 +116,25 @@
         {
           "file": "assets/js/237.a17da98c.js",
           "hash": "a83fe13b709a59ea",
-          "publicPath": "/ur/assets/js/237.a17da98c.js"
+          "publicPath": "/hackathon-book/ur/assets/js/237.a17da98c.js"
+        }
+      ]
+    },
+    "268": {
+      "js": [
+        {
+          "file": "assets/js/a76d8bc2.3795c57b.js",
+          "hash": "ddd2dddcf8570b5c",
+          "publicPath": "/hackathon-book/ur/assets/js/a76d8bc2.3795c57b.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.090f19c8.js",
-          "hash": "3781cd2763ad4473",
-          "publicPath": "/ur/assets/js/runtime~main.090f19c8.js"
+          "file": "assets/js/runtime~main.826b67a3.js",
+          "hash": "1b109acc90393e1d",
+          "publicPath": "/hackathon-book/ur/assets/js/runtime~main.826b67a3.js"
         }
       ]
     },
@@ -119,16 +143,16 @@
         {
           "file": "assets/js/17896441.5c0dc4bf.js",
           "hash": "5541337ed7031972",
-          "publicPath": "/ur/assets/js/17896441.5c0dc4bf.js"
+          "publicPath": "/hackathon-book/ur/assets/js/17896441.5c0dc4bf.js"
         }
       ]
     },
     "512": {
       "js": [
         {
-          "file": "assets/js/44d7f14c.18b8a093.js",
-          "hash": "9ac073f0fc3c4e43",
-          "publicPath": "/ur/assets/js/44d7f14c.18b8a093.js"
+          "file": "assets/js/44d7f14c.70ab5ddf.js",
+          "hash": "2e569f56da2f1606",
+          "publicPath": "/hackathon-book/ur/assets/js/44d7f14c.70ab5ddf.js"
         }
       ]
     },
@@ -137,16 +161,16 @@
         {
           "file": "assets/js/5e95c892.4c01ea46.js",
           "hash": "0c094363550483a5",
-          "publicPath": "/ur/assets/js/5e95c892.4c01ea46.js"
+          "publicPath": "/hackathon-book/ur/assets/js/5e95c892.4c01ea46.js"
         }
       ]
     },
     "737": {
       "js": [
         {
-          "file": "assets/js/7ddff0c6.a3b4d220.js",
-          "hash": "02cf6359ee1a8ad3",
-          "publicPath": "/ur/assets/js/7ddff0c6.a3b4d220.js"
+          "file": "assets/js/7ddff0c6.406c4fe2.js",
+          "hash": "e6f354daaeddae7f",
+          "publicPath": "/hackathon-book/ur/assets/js/7ddff0c6.406c4fe2.js"
         }
       ]
     },
@@ -155,16 +179,16 @@
         {
           "file": "assets/js/aba21aa0.4f062e12.js",
           "hash": "51266b94ab55fd2d",
-          "publicPath": "/ur/assets/js/aba21aa0.4f062e12.js"
+          "publicPath": "/hackathon-book/ur/assets/js/aba21aa0.4f062e12.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.ba4bfaf1.js",
-          "hash": "c1165b6ab5a23f59",
-          "publicPath": "/ur/assets/js/main.ba4bfaf1.js"
+          "file": "assets/js/main.839409d5.js",
+          "hash": "546da4ebb502a889",
+          "publicPath": "/hackathon-book/ur/assets/js/main.839409d5.js"
         }
       ]
     },
@@ -173,25 +197,25 @@
         {
           "file": "assets/css/styles.e91d7aac.css",
           "hash": "76fc17b76ede32cf",
-          "publicPath": "/ur/assets/css/styles.e91d7aac.css"
+          "publicPath": "/hackathon-book/ur/assets/css/styles.e91d7aac.css"
         }
       ]
     },
     "895": {
       "js": [
         {
-          "file": "assets/js/b8039f88.70148318.js",
-          "hash": "03eb1016ad610f63",
-          "publicPath": "/ur/assets/js/b8039f88.70148318.js"
+          "file": "assets/js/b8039f88.01d3bbf5.js",
+          "hash": "5e6ef94ff0967c18",
+          "publicPath": "/hackathon-book/ur/assets/js/b8039f88.01d3bbf5.js"
         }
       ]
     },
     "974": {
       "js": [
         {
-          "file": "assets/js/bac8f337.44fe463a.js",
-          "hash": "6b700fcec5280daf",
-          "publicPath": "/ur/assets/js/bac8f337.44fe463a.js"
+          "file": "assets/js/bac8f337.4b476f86.js",
+          "hash": "c2a054522fee4b88",
+          "publicPath": "/hackathon-book/ur/assets/js/bac8f337.4b476f86.js"
         }
       ]
     }

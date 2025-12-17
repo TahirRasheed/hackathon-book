@@ -1,0 +1,16 @@
+{
+  "id": "module-1/python-agents",
+  "title": "فصل 3: Python AI ایجنٹس، rclpy اور URDF",
+  "description": "",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/02-python-agents.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/python-agents",
+  "permalink": "/hackathon-book/ur/docs/module-1/python-agents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-1/02-python-agents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {}
+}

@@ -10,10 +10,10 @@ const config = {
   title: 'The Robotic Nervous System: ROS 2 for Humanoid AI',
   tagline: 'Teaching ROS 2 middleware for AI agents controlling humanoid robots',
   favicon: 'img/favicon.ico',
-  url: 'https://ros2-textbook.vercel.app',
-  baseUrl: '/',
-  organizationName: 'hackathon-book',
-  projectName: 'ros2-nervous-system',
+  url: 'https://tahirrasheed.github.io',
+  baseUrl: '/hackathon-book/',
+  organizationName: 'TahirRasheed',
+  projectName: 'hackathon-book',
   onBrokenLinks: 'warn',
   markdown: {
     hooks: {

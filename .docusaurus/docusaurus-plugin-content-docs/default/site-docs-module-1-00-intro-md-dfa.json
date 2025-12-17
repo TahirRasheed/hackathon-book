@@ -5,7 +5,7 @@
   "source": "@site/docs/module-1/00-intro.md",
   "sourceDirName": "module-1",
   "slug": "/module-1/intro",
-  "permalink": "/docs/module-1/intro",
+  "permalink": "/hackathon-book/docs/module-1/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-1/00-intro.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Home",
-    "permalink": "/docs/docs"
+    "permalink": "/hackathon-book/docs/docs"
   },
   "next": {
     "title": "Module Overview",
-    "permalink": "/docs/module-1/"
+    "permalink": "/hackathon-book/docs/module-1/"
   }
 }
