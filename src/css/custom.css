@@ -1,0 +1,81 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a simple framework built on top of BEM
+ * by the Docusaurus team.
+ * For full customization, you can also try this alternative approach:
+ * https://docusaurus.io/docs/styling-layout
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33a566;
+  --ifm-color-primary-lighter: #3cad6f;
+  --ifm-color-primary-lightest: #4dbf82;
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32dfc5;
+  --ifm-color-primary-lightest: #4ce4d6;
+}
+
+.docTitle {
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.featureHighlight {
+  background-color: #f0f9ff;
+  padding: 1rem;
+  border-left: 4px solid #2e8555;
+  margin: 1rem 0;
+}
+
+html[data-theme='dark'] .featureHighlight {
+  background-color: #1a1a2e;
+  border-left-color: #25c2a0;
+}
+
+/* Code block styling for ROS 2 and robotics examples */
+.codeBlock {
+  background-color: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 1rem;
+}
+
+html[data-theme='dark'] .codeBlock {
+  background-color: #2d2d2d;
+  border-color: #444;
+}
+
+/* RTL support for Urdu */
+html[dir='rtl'] {
+  direction: rtl;
+  text-align: right;
+}
+
+html[dir='rtl'] .navbar {
+  flex-direction: row-reverse;
+}
+
+html[dir='rtl'] .sidebar {
+  float: right;
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+/* Additional spacing for international content */
+.internationalContent {
+  line-height: 1.8;
+  letter-spacing: 0.5px;
+}

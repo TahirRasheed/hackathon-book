@@ -1,0 +1,25 @@
+{
+  "id": "module-1/intro",
+  "title": "Introduction to ROS 2 and the Robotic Nervous System",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1/00-intro.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/intro",
+  "permalink": "/docs/module-1/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-1/00-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/docs/docs"
+  },
+  "next": {
+    "title": "Module Overview",
+    "permalink": "/docs/module-1/"
+  }
+}

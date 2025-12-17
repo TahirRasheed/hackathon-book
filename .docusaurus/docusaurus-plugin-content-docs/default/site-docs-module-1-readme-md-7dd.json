@@ -1,0 +1,20 @@
+{
+  "id": "module-1/README",
+  "title": "Module 1: The Robotic Nervous System (ROS 2)",
+  "description": "Overview",
+  "source": "@site/docs/module-1/README.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/",
+  "permalink": "/docs/module-1/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-1/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to ROS 2",
+    "permalink": "/docs/module-1/intro"
+  }
+}
