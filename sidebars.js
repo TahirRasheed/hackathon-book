@@ -48,6 +48,39 @@ const sidebars = {
       collapsible: false,
       collapsed: false,
     },
+    {
+      type: 'category',
+      label: 'Module 2: The Digital Twin',
+      items: [
+        {
+          type: 'doc',
+          id: 'module-2/README',
+          label: 'Module Overview',
+        },
+        {
+          type: 'doc',
+          id: 'module-2/intro',
+          label: 'Chapter 0: Philosophy & Goals',
+        },
+        {
+          type: 'doc',
+          id: 'module-2/gazebo-simulation',
+          label: 'Chapter 1: Physics with Gazebo',
+        },
+        {
+          type: 'doc',
+          id: 'module-2/unity-hri',
+          label: 'Chapter 2: HRI in Unity',
+        },
+        {
+          type: 'doc',
+          id: 'module-2/sensor-simulation',
+          label: 'Chapter 3: Sensors & Sim-to-Real',
+        },
+      ],
+      collapsible: false,
+      collapsed: false,
+    },
   ],
 };
 
