@@ -28,6 +28,7 @@ const sidebars = {
           type: 'doc',
           id: 'module-1/README',
           label: 'Module Overview',
+          key: 'module1-overview',
         },
         {
           type: 'doc',
@@ -56,26 +57,12 @@ const sidebars = {
           type: 'doc',
           id: 'module-2/README',
           label: 'Module Overview',
+          key: 'module2-overview',
         },
         {
           type: 'doc',
           id: 'module-2/intro',
           label: 'Chapter 0: Philosophy & Goals',
-        },
-        {
-          type: 'doc',
-          id: 'module-2/gazebo-simulation',
-          label: 'Chapter 1: Physics with Gazebo',
-        },
-        {
-          type: 'doc',
-          id: 'module-2/unity-hri',
-          label: 'Chapter 2: HRI in Unity',
-        },
-        {
-          type: 'doc',
-          id: 'module-2/sensor-simulation',
-          label: 'Chapter 3: Sensors & Sim-to-Real',
         },
       ],
       collapsible: false,
