@@ -64,6 +64,21 @@ const sidebars = {
           id: 'module-2/intro',
           label: 'Chapter 0: Philosophy & Goals',
         },
+        {
+          type: 'doc',
+          id: 'module-2/gazebo',
+          label: 'Chapter 1: Physics with Gazebo',
+        },
+        {
+          type: 'doc',
+          id: 'module-2/unity',
+          label: 'Chapter 2: Human-Robot Interaction in Unity',
+        },
+        {
+          type: 'doc',
+          id: 'module-2/sensors',
+          label: 'Chapter 3: Sensors & Sim-to-Real Gaps',
+        },
       ],
       collapsible: false,
       collapsed: false,
