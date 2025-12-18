@@ -1,0 +1,15 @@
+{
+  "id": "module-1/I18N_WORKFLOW",
+  "title": "Urdu Translation Workflow",
+  "description": "Overview",
+  "source": "@site/docs/module-1/I18N_WORKFLOW.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/I18N_WORKFLOW",
+  "permalink": "/hackathon-book/ur/docs/module-1/I18N_WORKFLOW",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-1/I18N_WORKFLOW.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,21 @@
+{
+  "id": "module-2/sensors",
+  "title": "Chapter 3: Sensors & Sim-to-Real Gaps (Limits?)",
+  "description": "Goal",
+  "source": "@site/docs/module-2/03-sensors.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/sensors",
+  "permalink": "/hackathon-book/ur/docs/module-2/sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-2/03-sensors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Human-Robot Interaction in Unity",
+    "permalink": "/hackathon-book/ur/docs/module-2/unity"
+  }
+}

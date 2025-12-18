@@ -1,0 +1,43 @@
+{
+  "/hackathon-book/ur/docs-877": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/hackathon-book/ur/docs-589": {
+    "__comp": "a7bd4aaa",
+    "__props": "7b51d1da"
+  },
+  "/hackathon-book/ur/docs-314": {
+    "__comp": "a94703ab"
+  },
+  "/hackathon-book/ur/docs/docs-f46": {
+    "__comp": "17896441",
+    "content": "b8039f88"
+  },
+  "/hackathon-book/ur/docs/module-1/-bfd": {
+    "__comp": "17896441",
+    "content": "7ddff0c6"
+  },
+  "/hackathon-book/ur/docs/module-1/communication-6a8": {
+    "__comp": "17896441",
+    "content": "a76d8bc2"
+  },
+  "/hackathon-book/ur/docs/module-1/I18N_WORKFLOW-632": {
+    "__comp": "17896441",
+    "content": "44d7f14c"
+  },
+  "/hackathon-book/ur/docs/module-1/intro-c8a": {
+    "__comp": "17896441",
+    "content": "6c7dc579"
+  },
+  "/hackathon-book/ur/docs/module-1/python-agents-ad6": {
+    "__comp": "17896441",
+    "content": "ff2537fb"
+  },
+  "/hackathon-book/ur/docs/module-1/VERIFICATION_LOG-9d8": {
+    "__comp": "17896441",
+    "content": "bac8f337"
+  }
+}
