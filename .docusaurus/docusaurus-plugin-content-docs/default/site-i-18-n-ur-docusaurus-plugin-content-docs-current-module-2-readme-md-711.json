@@ -1,0 +1,24 @@
+{
+  "id": "module-2/README",
+  "title": "ماڈیول 2: ڈیجیٹل ٹوئن — نقالی کے ذریعے محفوظ ہیومنوائیڈ روبوٹکس",
+  "description": "جائزہ",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-2/README.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/",
+  "permalink": "/hackathon-book/ur/docs/module-2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-2/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Python AI Agents & URDF",
+    "permalink": "/hackathon-book/ur/docs/module-1/python-agents"
+  },
+  "next": {
+    "title": "Chapter 0: Philosophy & Goals",
+    "permalink": "/hackathon-book/ur/docs/module-2/intro"
+  }
+}
