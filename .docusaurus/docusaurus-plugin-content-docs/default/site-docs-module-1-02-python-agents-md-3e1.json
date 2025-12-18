@@ -1,0 +1,16 @@
+{
+  "id": "module-1/python-agents",
+  "title": "Chapter 3: Python AI Agents, rclpy, and Humanoid Descriptions (URDF)",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1/02-python-agents.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/python-agents",
+  "permalink": "/hackathon-book/docs/module-1/python-agents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-1/02-python-agents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {}
+}

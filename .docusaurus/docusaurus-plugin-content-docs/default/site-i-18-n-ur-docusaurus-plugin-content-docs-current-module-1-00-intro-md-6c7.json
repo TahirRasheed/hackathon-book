@@ -1,0 +1,25 @@
+{
+  "id": "module-1/intro",
+  "title": "ROS 2 اور Robotic Nervous System کا تعارف",
+  "description": "سیکھنے کے مقاصد",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/00-intro.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/intro",
+  "permalink": "/hackathon-book/ur/docs/module-1/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-1/00-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/hackathon-book/ur/docs/docs"
+  },
+  "next": {
+    "title": "Module Overview",
+    "permalink": "/hackathon-book/ur/docs/module-1/"
+  }
+}

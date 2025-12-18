@@ -1,0 +1,25 @@
+{
+  "id": "module-2/gazebo",
+  "title": "Chapter 1: Physics with Gazebo (How?)",
+  "description": "Goal",
+  "source": "@site/docs/module-2/01-gazebo.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/gazebo",
+  "permalink": "/hackathon-book/ur/docs/module-2/gazebo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-2/01-gazebo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 0: Philosophy & Goals",
+    "permalink": "/hackathon-book/ur/docs/module-2/intro"
+  },
+  "next": {
+    "title": "Chapter 2: Human-Robot Interaction in Unity",
+    "permalink": "/hackathon-book/ur/docs/module-2/unity"
+  }
+}

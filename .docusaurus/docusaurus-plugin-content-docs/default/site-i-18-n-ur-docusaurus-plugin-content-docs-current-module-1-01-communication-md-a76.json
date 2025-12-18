@@ -1,0 +1,16 @@
+{
+  "id": "module-1/communication",
+  "title": "فصل 2: ROS 2 کمیونیکیشن — نوڈز، ٹاپکس، اور سروسز",
+  "description": "سیکھنے کے مقاصد",
+  "source": "@site/i18n/ur/docusaurus-plugin-content-docs/current/module-1/01-communication.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/communication",
+  "permalink": "/hackathon-book/ur/docs/module-1/communication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-1/01-communication.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {}
+}

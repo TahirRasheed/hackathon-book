@@ -1,0 +1,59 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/hackathon-book/ur/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/hackathon-book/ur/docs",
+          "mainDocId": "docs",
+          "docs": [
+            {
+              "id": "docs",
+              "path": "/hackathon-book/ur/docs/docs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/communication",
+              "path": "/hackathon-book/ur/docs/module-1/communication"
+            },
+            {
+              "id": "module-1/I18N_WORKFLOW",
+              "path": "/hackathon-book/ur/docs/module-1/I18N_WORKFLOW"
+            },
+            {
+              "id": "module-1/intro",
+              "path": "/hackathon-book/ur/docs/module-1/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/python-agents",
+              "path": "/hackathon-book/ur/docs/module-1/python-agents"
+            },
+            {
+              "id": "module-1/README",
+              "path": "/hackathon-book/ur/docs/module-1/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/VERIFICATION_LOG",
+              "path": "/hackathon-book/ur/docs/module-1/VERIFICATION_LOG"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/hackathon-book/ur/docs/docs",
+                "label": "Home"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

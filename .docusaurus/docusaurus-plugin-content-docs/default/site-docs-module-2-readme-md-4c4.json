@@ -1,0 +1,24 @@
+{
+  "id": "module-2/README",
+  "title": "Module 2: The Digital Twin — Safe Humanoid Robotics Through Simulation",
+  "description": "Overview",
+  "source": "@site/docs/module-2/README.md",
+  "sourceDirName": "module-2",
+  "slug": "/module-2/",
+  "permalink": "/hackathon-book/docs/module-2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-2/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Python AI Agents & URDF",
+    "permalink": "/hackathon-book/docs/module-1/python-agents"
+  },
+  "next": {
+    "title": "Chapter 0: Philosophy & Goals",
+    "permalink": "/hackathon-book/docs/module-2/intro"
+  }
+}
