@@ -83,6 +83,19 @@ const sidebars = {
       collapsible: false,
       collapsed: false,
     },
+    {
+      type: 'category',
+      label: 'Module 3: Humanoid Robot Architecture',
+      items: [
+        {
+          type: 'doc',
+          id: 'module-3/intro',
+          label: 'Chapter 1: Integrating Hardware and Software for Physical AI',
+        },
+      ],
+      collapsible: false,
+      collapsed: false,
+    },
   ],
 };
 
