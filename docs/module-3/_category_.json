@@ -1,0 +1,8 @@
+{
+  "label": "Module 3: Humanoid Robot Architecture",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about humanoid robot architecture - integrating hardware and software for Physical AI. This module explores mechanical structure, sensors, actuators, compute systems, ROS 2 integration, and safety mechanisms using Boston Dynamics Atlas as a case study."
+  }
+}

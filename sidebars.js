@@ -90,7 +90,47 @@ const sidebars = {
         {
           type: 'doc',
           id: 'module-3/intro',
-          label: 'Chapter 1: Integrating Hardware and Software for Physical AI',
+          label: 'Chapter 1: Introduction & Learning Objectives',
+        },
+        {
+          type: 'doc',
+          id: 'module-3/mechanical',
+          label: 'Chapter 2: Mechanical Structure & Kinematics',
+        },
+        {
+          type: 'doc',
+          id: 'module-3/sensors',
+          label: 'Chapter 3: Sensors & Proprioception',
+        },
+        {
+          type: 'doc',
+          id: 'module-3/actuators',
+          label: 'Chapter 4: Actuators & Power',
+        },
+        {
+          type: 'doc',
+          id: 'module-3/compute',
+          label: 'Chapter 5: Hardware Compute & Real-Time OS',
+        },
+        {
+          type: 'doc',
+          id: 'module-3/ros2',
+          label: 'Chapter 6: ROS 2 Software Stack',
+        },
+        {
+          type: 'doc',
+          id: 'module-3/safety',
+          label: 'Chapter 7: Safety, Redundancy & Integration',
+        },
+        {
+          type: 'doc',
+          id: 'module-3/case-study',
+          label: 'Chapter 8: Boston Dynamics Atlas Case Study',
+        },
+        {
+          type: 'doc',
+          id: 'module-3/summary',
+          label: 'Chapter 9: Summary & Review Questions',
         },
       ],
       collapsible: false,
