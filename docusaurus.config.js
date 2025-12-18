@@ -66,7 +66,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Module 1',
+            label: 'Modules',
           },
           {
             type: 'localeDropdown',

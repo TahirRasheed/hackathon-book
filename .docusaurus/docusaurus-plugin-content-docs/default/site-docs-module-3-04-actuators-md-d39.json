@@ -1,0 +1,25 @@
+{
+  "id": "module-3/actuators",
+  "title": "Chapter 4: Actuators & Power",
+  "description": "A robot's mechanical structure defines what it can do. Actuators define how much power it has to do it. Power budget determines how long it can operate before the battery depletes.",
+  "source": "@site/docs/module-3/04-actuators.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/actuators",
+  "permalink": "/hackathon-book/ur/docs/module-3/actuators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/04-actuators.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Sensors & Proprioception",
+    "permalink": "/hackathon-book/ur/docs/module-3/sensors"
+  },
+  "next": {
+    "title": "Chapter 5: Hardware Compute & Real-Time OS",
+    "permalink": "/hackathon-book/ur/docs/module-3/compute"
+  }
+}

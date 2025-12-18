@@ -1,0 +1,25 @@
+{
+  "id": "module-3/safety",
+  "title": "Chapter 7: Safety, Redundancy & Integration",
+  "description": "A humanoid robot is a complex machine that can injure people or destroy property. Safety is not an afterthought — it must be designed into every layer of the architecture.",
+  "source": "@site/docs/module-3/07-safety.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/safety",
+  "permalink": "/hackathon-book/ur/docs/module-3/safety",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/07-safety.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 6: ROS 2 Software Stack",
+    "permalink": "/hackathon-book/ur/docs/module-3/ros2"
+  },
+  "next": {
+    "title": "Chapter 8: Boston Dynamics Atlas Case Study",
+    "permalink": "/hackathon-book/ur/docs/module-3/case-study"
+  }
+}

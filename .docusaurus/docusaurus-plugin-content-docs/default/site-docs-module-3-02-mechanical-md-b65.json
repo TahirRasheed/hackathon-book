@@ -1,0 +1,25 @@
+{
+  "id": "module-3/mechanical",
+  "title": "Chapter 2: Mechanical Structure & Kinematics",
+  "description": "The Foundation: Degrees of Freedom and Kinematic Chains",
+  "source": "@site/docs/module-3/02-mechanical.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/mechanical",
+  "permalink": "/hackathon-book/ur/docs/module-3/mechanical",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/02-mechanical.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction & Learning Objectives",
+    "permalink": "/hackathon-book/ur/docs/module-3/intro"
+  },
+  "next": {
+    "title": "Chapter 3: Sensors & Proprioception",
+    "permalink": "/hackathon-book/ur/docs/module-3/sensors"
+  }
+}

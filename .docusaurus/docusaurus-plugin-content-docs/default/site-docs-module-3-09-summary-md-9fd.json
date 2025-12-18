@@ -1,0 +1,21 @@
+{
+  "id": "module-3/summary",
+  "title": "Chapter 9: Summary & Review Questions",
+  "description": "Recap: The Five Pillars of Humanoid Architecture",
+  "source": "@site/docs/module-3/09-summary.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/summary",
+  "permalink": "/hackathon-book/ur/docs/module-3/summary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/09-summary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 8: Boston Dynamics Atlas Case Study",
+    "permalink": "/hackathon-book/ur/docs/module-3/case-study"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "module-3/intro",
+  "title": "Chapter 1: Introduction & Learning Objectives",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-3/01-intro.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/intro",
+  "permalink": "/hackathon-book/ur/docs/module-3/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/01-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Sensors & Sim-to-Real Gaps",
+    "permalink": "/hackathon-book/ur/docs/module-2/sensors"
+  },
+  "next": {
+    "title": "Chapter 2: Mechanical Structure & Kinematics",
+    "permalink": "/hackathon-book/ur/docs/module-3/mechanical"
+  }
+}

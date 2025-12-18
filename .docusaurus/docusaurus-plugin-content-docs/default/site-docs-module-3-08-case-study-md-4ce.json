@@ -1,0 +1,25 @@
+{
+  "id": "module-3/case-study",
+  "title": "Chapter 8: Boston Dynamics Atlas Case Study",
+  "description": "Boston Dynamics Atlas is arguably the world's most advanced humanoid robot. Let's trace how the architecture decisions we've learned create the capabilities that make Atlas remarkable.",
+  "source": "@site/docs/module-3/08-case-study.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/case-study",
+  "permalink": "/hackathon-book/ur/docs/module-3/case-study",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/08-case-study.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 7: Safety, Redundancy & Integration",
+    "permalink": "/hackathon-book/ur/docs/module-3/safety"
+  },
+  "next": {
+    "title": "Chapter 9: Summary & Review Questions",
+    "permalink": "/hackathon-book/ur/docs/module-3/summary"
+  }
+}

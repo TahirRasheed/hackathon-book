@@ -1,0 +1,25 @@
+{
+  "id": "module-3/compute",
+  "title": "Chapter 5: Hardware Compute & Real-Time OS",
+  "description": "A humanoid robot must execute multiple tasks in parallel:",
+  "source": "@site/docs/module-3/05-compute.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/compute",
+  "permalink": "/hackathon-book/ur/docs/module-3/compute",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/05-compute.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: Actuators & Power",
+    "permalink": "/hackathon-book/ur/docs/module-3/actuators"
+  },
+  "next": {
+    "title": "Chapter 6: ROS 2 Software Stack",
+    "permalink": "/hackathon-book/ur/docs/module-3/ros2"
+  }
+}

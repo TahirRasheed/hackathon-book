@@ -1,0 +1,21 @@
+{
+  "id": "module-3/intro",
+  "title": "Module 3: Humanoid Robot Architecture - Integrating Hardware and Software for Physical AI",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-3/00-intro.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/intro",
+  "permalink": "/hackathon-book/ur/docs/module-3/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/00-intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Sensors & Sim-to-Real Gaps",
+    "permalink": "/hackathon-book/ur/docs/module-2/sensors"
+  }
+}

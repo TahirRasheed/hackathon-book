@@ -1,0 +1,25 @@
+{
+  "id": "module-3/sensors",
+  "title": "Chapter 3: Sensors & Proprioception",
+  "description": "A humanoid robot operates in an uncertain world. To control walking, manipulation, and balance, it must answer these questions continuously:",
+  "source": "@site/docs/module-3/03-sensors.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/sensors",
+  "permalink": "/hackathon-book/ur/docs/module-3/sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/03-sensors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: Mechanical Structure & Kinematics",
+    "permalink": "/hackathon-book/ur/docs/module-3/mechanical"
+  },
+  "next": {
+    "title": "Chapter 4: Actuators & Power",
+    "permalink": "/hackathon-book/ur/docs/module-3/actuators"
+  }
+}

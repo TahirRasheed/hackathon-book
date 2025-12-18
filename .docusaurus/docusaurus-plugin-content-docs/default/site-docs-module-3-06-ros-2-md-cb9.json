@@ -1,0 +1,25 @@
+{
+  "id": "module-3/ros2",
+  "title": "Chapter 6: ROS 2 Software Stack",
+  "description": "ROS 2 (Robot Operating System 2) is the de facto standard middleware for humanoid robotics. It provides:",
+  "source": "@site/docs/module-3/06-ros2.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/ros2",
+  "permalink": "/hackathon-book/ur/docs/module-3/ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/anthropics/hackathon-book/tree/main/docs/module-3/06-ros2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Hardware Compute & Real-Time OS",
+    "permalink": "/hackathon-book/ur/docs/module-3/compute"
+  },
+  "next": {
+    "title": "Chapter 7: Safety, Redundancy & Integration",
+    "permalink": "/hackathon-book/ur/docs/module-3/safety"
+  }
+}
